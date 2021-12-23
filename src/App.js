@@ -4,7 +4,7 @@ import axios from "axios";
 
 
 
-const baseURL = "http://api.weatherstack.com/current?access_key=b4dbd06255b0a8c68674f6979f8723af&query=";
+const baseURL = "http://api.weatherstack.com/current?access_key=21960462667c2e17d652a947dfa1a837&query=";
 let textInput=createRef()
 //console.log(textInput)
 
